@@ -1,0 +1,43 @@
+{
+  "name": "ASH Chord Transposer",
+  "short_name": "Chord Transposer",
+  "description": "A web application for converting and analyzing musical chords and progressions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#673ab7",
+  "theme_color": "#9c27b0",
+  "orientation": "portrait-primary",
+  "categories": ["music", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
