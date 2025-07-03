@@ -1,13 +1,13 @@
 const CACHE_NAME = 'ash-chord-transposer-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icons/icon-72x72.png',
-  '/icons/icon-96x96.png',
-  '/icons/icon-144x144.png',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/chord-converter-app/',
+  '/chord-converter-app/index.html',
+  '/chord-converter-app/manifest.json',
+  '/chord-converter-app/icons/icon-72x72.png',
+  '/chord-converter-app/icons/icon-96x96.png',
+  '/chord-converter-app/icons/icon-144x144.png',
+  '/chord-converter-app/icons/icon-192x192.png',
+  '/chord-converter-app/icons/icon-512x512.png'
 ];
 
 // Install service worker
