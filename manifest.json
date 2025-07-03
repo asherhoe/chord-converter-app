@@ -7,7 +7,11 @@
   "background_color": "#673ab7",
   "theme_color": "#9c27b0",
   "orientation": "portrait-primary",
-  "categories": ["music", "utilities", "productivity"],
+  "categories": [
+    "music",
+    "utilities",
+    "productivity"
+  ],
   "icons": [
     {
       "src": "icons/icon-72x72.png",
@@ -39,5 +43,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "com.asherhoe.chordtransposer"
 }
