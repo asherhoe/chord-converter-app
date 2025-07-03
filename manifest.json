@@ -2,7 +2,7 @@
   "name": "ASH Chord Transposer",
   "short_name": "Chord Transposer",
   "description": "A web application for converting and analyzing musical chords and progressions",
-  "start_url": "/",
+  "start_url": "/chord-converter-app/",
   "display": "standalone",
   "background_color": "#673ab7",
   "theme_color": "#9c27b0",
