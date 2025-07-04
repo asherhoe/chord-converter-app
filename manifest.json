@@ -1,6 +1,7 @@
 {
   "name": "ASH Chord Transposer",
   "short_name": "Chord Transposer",
+  "version": "1.1",
   "description": "A web application for converting and analyzing musical chords and progressions",
   "start_url": "/chord-converter-app/",
   "display": "standalone",
@@ -12,7 +13,7 @@
     "utilities",
     "productivity"
   ],
- "icons": [
+  "icons": [
     {
       "src": "icons/icon-72x72.png",
       "sizes": "72x72",
